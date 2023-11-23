@@ -1,0 +1,22 @@
+{
+  "name": "bc2023-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlliaTsap/bc2023-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlliaTsap/bc2023-5/issues"
+  },
+  "homepage": "https://github.com/IlliaTsap/bc2023-5#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
